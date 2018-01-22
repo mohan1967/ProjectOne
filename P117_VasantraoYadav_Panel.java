@@ -134,7 +134,7 @@ public class P117_VasantraoYadav_Panel extends JPanel{
 		add(component,abc);
 	}
 	
-	public static void main(String [] args){
+	/*public static void main(String [] args){
 	
 	P117_VasantraoYadav_Panel vy=new P117_VasantraoYadav_Panel(117);
 	JFrame jframe=new JFrame("First Java Application");
@@ -144,6 +144,6 @@ public class P117_VasantraoYadav_Panel extends JPanel{
 	jframe.setContentPane(jpan);
 	jframe.setVisible(true);
 	
-}
+}*/
 
 }
